@@ -1,9 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="Bienvenida", Bienvenido | Disfruta de las mejores Películas!
+http://tv.teleclub.xyz/hls/welcome.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="Bienvenida", Bienvenido | Disfruta de las mejores Películas!
+http://tv.teleclub.xyz/hls/welcome.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/12-strong-tropa-de-heroes.jpg" group-title="Acción", Tropa de Héroes
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/12%20strong.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/300.jpg" group-title="Acción", 300
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/300.jpg" group-title="Acción", 300 (2006)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/300.mp4
+#EXTINF:-1 group-title="Acción", 300: El Nacimiento De Un Imperio (2014)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20300-%20El%20origen%20de%20un%20imperio%20_%20El%20nacimiento%20de%20un%20imperio%20Online%20(2014)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
 #EXTINF:-1 group-title="Acción", Coffee & Kareem
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACCION%20-%20Coffee%20&amp;%20Kareem.mp4
 #EXTINF:-1 group-title="Acción", El Silencio del Pantano
@@ -18,135 +23,123 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACCION%20-%20Misi
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACCION%20%20-%20Una%20guerra%20de%20pel%c3%adcula%20(2008).mp4
 #EXTINF:-1 group-title="Acción", xXx: Reactivado
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACCION%20-%20xXx-%20Return%20of%20Xander%20Cage.mp4
-#EXTINF:-1,iptvtools_11
+#EXTINF:-1 group-title="Acción", Espía por error
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACION%20%20-%20Espia%20por%20error.mp4
-#EXTINF:-1,iptvtools_12
+#EXTINF:-1 group-title="Acción", Aladino
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Aladino%202019.mkv
-#EXTINF:-1,iptvtools_13
+#EXTINF:-1 group-title="Acción", Al Filo Del Mañana
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Al%20filo%20del%20ma%c3%b1ana.mp4
-#EXTINF:-1,iptvtools_14
+#EXTINF:-1 group-title="Acción", Baby Baby- El Aprendiz del Crimen
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Baby%20Baby-%20El%20Aprendiz%20del%20Crimen.mp4
-#EXTINF:-1,iptvtools_15
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Barry%20Seal-%20El%20traficante%20_%20Solo%20en%20Am%c3%a9rica.mp4
-#EXTINF:-1,iptvtools_16
+#EXTINF:-1 group-title="Acción", Batman vs. Tortugas Ninjas (2019)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Batman%20y%20las%20Tortugas%20Ninja%20Online%20(2019).mp4
-#EXTINF:-1,iptvtools_17
+#EXTINF:-1 group-title="Acción", Grandes Heroes
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Big%20Hero%206%20_%20Grandes%20h%c3%a9roes.mp4
-#EXTINF:-1,iptvtools_18
+#EXTINF:-1 group-title="Acción", Bleach: La Pélicula (2018)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Bleach%20Online%20(2018).mp4
-#EXTINF:-1,iptvtools_19
+#EXTINF:-1 group-title="Acción", Cómo Entrenar a tu Dragón 1
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/C%c3%b3mo%20entrenar%20a%20tu%20drag%c3%b3n%201.mp4
-#EXTINF:-1,iptvtools_20
+#EXTINF:-1 group-title="Acción", Cómo Entrenar a tu Dragón 2
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/C%c3%b3mo%20entrenar%20a%20tu%20drag%c3%b3n%202.mp4
-#EXTINF:-1,iptvtools_21
+#EXTINF:-1 group-title="Acción", Cazafantasmas (2016)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Cazafantasmas.mp4
-#EXTINF:-1,iptvtools_22
+#EXTINF:-1 group-title="Acción", Maze Runner: Correr o Morir
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Correr%20o%20Morir%20%5b720p%5d.mp4
-#EXTINF:-1,iptvtools_23
+#EXTINF:-1 group-title="Acción", Dragon Ball Super: Broly (2018)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Dragon%20Ball%20Super-%20Broly.mp4
-#EXTINF:-1,iptvtools_24
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/El%20Camino-%20Una%20pel%c3%adcula%20de%20Breaking%20Bad.mp4
-#EXTINF:-1,iptvtools_25
+#EXTINF:-1 group-title="Acción", El Hombre de Acero (2013)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/El%20hombre%20de%20acero.mp4
-#EXTINF:-1,iptvtools_26
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/El%20retorno%20del%20Rey.mp4
-#EXTINF:-1,iptvtools_27
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/El%20rey%20proscrito%20_%20Leg%c3%adtimo%20rey%20Online.mp4
-#EXTINF:-1,iptvtools_28
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Escuadr%c3%b3n%20suicida-%20Deuda%20infernal%20_%20Suicide%20Squad-%20Hell%20to%20Pay.mp4
-#EXTINF:-1,iptvtools_29
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Gigantes%20de%20acero%20_%20Acero%20puro.mp4
-#EXTINF:-1,iptvtools_30
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Han%20Solo-%20Una%20historia%20de%20Star%20Wars.mp4
-#EXTINF:-1,iptvtools_31
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Hostiles-%20Violencia%20americana.mp4
-#EXTINF:-1,iptvtools_32
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Hunter%20Killer.%20Caza%20en%20las%20profundidades%20_%20Misi%c3%b3n%20submarino.mp4
-#EXTINF:-1,iptvtools_33
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ICCION%20-%20El%20precio%20del%20ma%c3%b1ana%20(2011).mkv
-#EXTINF:-1,iptvtools_34
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Juego%20de%20ladrones.%20El%20atraco%20perfecto%20_%20El%20robo%20perfecto.mp4
-#EXTINF:-1,iptvtools_35
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Jumanji-%20Bienvenidos%20a%20la%20jungla%20_%20En%20la%20selva.mp4
-#EXTINF:-1,iptvtools_36
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Kung%20Fu%20Panda%203.mp4
-#EXTINF:-1,iptvtools_37
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/La%20Batalla%20de%20Los%20Cinco.mp4
-#EXTINF:-1,iptvtools_38
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/La%20Desolaci%c3%b3n%20de%20Smaug.mp4
-#EXTINF:-1,iptvtools_39
+#EXTINF:-1 group-title="Acción", El Señor de los Anillos 1: la Comunidad del Anillo
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/La%20comunidad%20del%20anillo.mp4
-#EXTINF:-1,iptvtools_40
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/La%20noche%20nos%20persigue.mp4
-#EXTINF:-1,iptvtools_41
+#EXTINF:-1 group-title="Acción", El Señor de los Anillos 2: Las Dos Torres
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Las%20dos%20torres.mp4
-#EXTINF:-1,iptvtools_42
+#EXTINF:-1 group-title="Acción", El Señor de los Anillos 3: El Retorno del Rey
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/El%20retorno%20del%20Rey.mp4
+#EXTINF:-1 group-title="Acción", Legitimo Rey
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/El%20rey%20proscrito%20_%20Leg%c3%adtimo%20rey%20Online.mp4
+#EXTINF:-1 group-title="Acción", Escuadrón suicida: Deuda Infernal
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Escuadr%c3%b3n%20suicida-%20Deuda%20infernal%20_%20Suicide%20Squad-%20Hell%20to%20Pay.mp4
+#EXTINF:-1 group-title="Acción", Gigantes de Acero
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Gigantes%20de%20acero%20_%20Acero%20puro.mp4
+#EXTINF:-1 group-title="Acción", Han Solo: Una Historia de Star Wars
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Han%20Solo-%20Una%20historia%20de%20Star%20Wars.mp4
+#EXTINF:-1 group-title="Acción", El Precio del Mañana (2011)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ICCION%20-%20El%20precio%20del%20ma%c3%b1ana%20(2011).mkv
+#EXTINF:-1 group-title="Acción", Juego de ladrones: El Robo Perfecto (2018)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Juego%20de%20ladrones.%20El%20atraco%20perfecto%20_%20El%20robo%20perfecto.mp4
+#EXTINF:-1 group-title="Acción", Jumanji: Bienvenidos a la Jungla (2017)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Jumanji-%20Bienvenidos%20a%20la%20jungla%20_%20En%20la%20selva.mp4
+#EXTINF:-1 group-title="Acción", Kung Fu Panda 3 (2016)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Kung%20Fu%20Panda%203.mp4
+#EXTINF:-1 group-title="Acción", El Hobbit: La Batalla de los Cinco Ejércitos
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/La%20Batalla%20de%20Los%20Cinco.mp4
+#EXTINF:-1 group-title="Acción", El hobbit: la Desolación de Smaug
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/La%20Desolaci%c3%b3n%20de%20Smaug.mp4
+#EXTINF:-1 group-title="Acción", La noche nos persigue
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/La%20noche%20nos%20persigue.mp4
+#EXTINF:-1 group-title="Acción", Liga de la Justicia
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Liga%20de%20la%20Justicia%20_%20Justice%20League.mp4
-#EXTINF:-1,iptvtools_43
+#EXTINF:-1 group-title="Acción", Mad Max: Furia en el Camino
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Mad%20Max-%20Furia%20en%20la%20carretera%20_%20Furia%20en%20el%20camino.mp4
-#EXTINF:-1,iptvtools_44
+#EXTINF:-1 group-title="Acción", Maléfica (2014)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Mal%c3%a9fica%20Online%20(2014).mp4
-#EXTINF:-1,iptvtools_45
+#EXTINF:-1 group-title="Acción", Misión Imposible 6: Repercusión (2018)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Misi%c3%b3n-%20Imposible%206%20-%20Repercusi%c3%b3n.mp4
-#EXTINF:-1,iptvtools_46
+#EXTINF:-1 group-title="Acción", Mujer Maravilla (2017)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Mujer%20Maravilla%20_%20Wonder%20Woman.mp4
-#EXTINF:-1,iptvtools_47
+#EXTINF:-1 group-title="Acción", Rápido y Furioso 1
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/RAPIDOS%20Y%20FURIOSOS%201.mp4
-#EXTINF:-1,iptvtools_48
+#EXTINF:-1 group-title="Acción", Rápido y Furioso 2
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/RAPIDOS%20Y%20FURIOSOS%202.mp4
-#EXTINF:-1,iptvtools_49
+#EXTINF:-1 group-title="Acción", Rápido y Furioso 3: Reto Tokyo
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/RAPIDOS%20Y%20FURIOSOS%203%20RETO%20TOKYO.mp4
-#EXTINF:-1,iptvtools_50
+#EXTINF:-1 group-title="Acción", Rápido y Furioso 4
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/RAPIDOS%20Y%20FURIOSOS%204.mp4
-#EXTINF:-1,iptvtools_51
+#EXTINF:-1 group-title="Acción", Rápido y Furioso 5
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/RAPIDOS%20Y%20FURIOSOS%205.mp4
-#EXTINF:-1,iptvtools_52
+#EXTINF:-1 group-title="Acción", Rápido y Furioso 6
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/RAPIDOS%20Y%20FURIOSOS%206.mp4
-#EXTINF:-1,iptvtools_53
+#EXTINF:-1 group-title="Acción", Rápido y Furioso 7
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/RAPIDOS%20Y%20FURIOSOS%207.mp4
-#EXTINF:-1,iptvtools_54
+#EXTINF:-1 group-title="Acción", Rápido y Furioso 8
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/RAPIDOS%20Y%20FURIOSOS%208.mp4
-#EXTINF:-1,iptvtools_55
+#EXTINF:-1 group-title="Acción", Rápido y Furioso 9
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/RAPIDOS%20Y%20FURIOSOS%209%20HOBS%20Y%20SHAW.mp4
-#EXTINF:-1,iptvtools_56
+#EXTINF:-1 group-title="Acción", RoboCop (2014)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/RoboCop.mp4
-#EXTINF:-1,iptvtools_57
+#EXTINF:-1 group-title="Acción", Rocky 1
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Rocky%201.mp4
-#EXTINF:-1,iptvtools_58
+#EXTINF:-1 group-title="Acción", Rocky 2
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Rocky%202.mp4
-#EXTINF:-1,iptvtools_59
+#EXTINF:-1 group-title="Acción", Rocky 3
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Rocky%203.mp4
-#EXTINF:-1,iptvtools_60
+#EXTINF:-1 group-title="Acción", Rocky 4
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Rocky%204.mp4
-#EXTINF:-1,iptvtools_61
+#EXTINF:-1 group-title="Acción", Shazam (2019)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Shazam%20Online%20(2019).mp4
-#EXTINF:-1,iptvtools_62
+#EXTINF:-1 group-title="Acción", Sonic: La Pélicula (2020)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Sonic,%20la%20pel%c3%adcula.mp4
-#EXTINF:-1,iptvtools_63
+#EXTINF:-1 group-title="Acción", Star Wars: Episodio IX - El ascenso de Skywalker (2019)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Star%20Wars%20The%20Rise%20of%20Skywalker.mkv
-#EXTINF:-1,iptvtools_64
+#EXTINF:-1 group-title="Acción", Tolkien (2019)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/TOLKIEN.mp4
-#EXTINF:-1,iptvtools_65
+#EXTINF:-1 group-title="Acción", Titanes del Pacífico (2013)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Titanes%20del%20Pac%c3%adfico%20_%20Pacific%20Rim.mp4
-#EXTINF:-1,iptvtools_66
+#EXTINF:-1 group-title="Acción", Tomb Raider: las aventuras de Lara Croft (2018)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Tomb%20Raider%20Las%20aventuras%20de%20Lara%20Croft.mp4
-#EXTINF:-1,iptvtools_67
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Un%20Viaje%20Inesperado.mp4
-#EXTINF:-1,iptvtools_68
+#EXTINF:-1 group-title="Acción", Upgrade: máquina asesina (2018)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Upgrade-%20M%c3%a1quina%20asesina.mp4
-#EXTINF:-1,iptvtools_69
+#EXTINF:-1 group-title="Acción", Que le pasó a Lunes? (2017)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20%c2%bfQu%c3%a9%20le%20pas%c3%b3%20a%20lunes-%20_%20Siete%20hermanas%20Online%20(2017)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,iptvtools_70
+#EXTINF:-1 group-title="Acción", Éxodo: Dioses y Reyes (2014)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20%c3%89xodo%20(Exodus)-%20Dioses%20y%20Reyes%20Online%20(2014)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,iptvtools_71
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20300-%20El%20origen%20de%20un%20imperio%20_%20El%20nacimiento%20de%20un%20imperio%20Online%20(2014)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,iptvtools_72
+#EXTINF:-1 group-title="Acción", 
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20At%c3%b3mica%20_%20Atomic%20Blonde%20Online%20(2017)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,iptvtools_73
+#EXTINF:-1 group-title="Acción", 
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Blackhat%20-%20Amenaza%20En%20la%20Red%20(2015)%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,iptvtools_74
+#EXTINF:-1 group-title="Acción", 
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Blade%202-%20Cazador%20de%20vampiros%20Online%20(2002)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,iptvtools_75
+#EXTINF:-1 group-title="Acción", 
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Bloodshot%20Online%20(2020)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
 #EXTINF:-1,iptvtools_76
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Braven%20Online%20(2018)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
