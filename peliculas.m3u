@@ -4,19 +4,19 @@
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/12%20strong.mp4
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/300.jpg" group-title="Acción", 300
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/300.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/300.jpg" group-title="Acción", Coffee & Kareem
+#EXTINF:-1 group-title="Acción", Coffee & Kareem
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACCION%20-%20Coffee%20&amp;%20Kareem.mp4
-tvg-logo="https://img.repelis.id/cover/300.jpg" group-title="Acción", El Silencio del Pantano
+#EXTINF:-1 group-title="Acción", El Silencio del Pantano
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACCION%20-%20El%20silencio%20del%20pantano.mp4
-#EXTINF:-1,iptvtools_6
+#EXTINF:-1 group-title="Acción", Grandes Espías
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACCION%20-%20Grandes%20esp%c3%adas.mp4
-#EXTINF:-1,iptvtools_7
+#EXTINF:-1 group-title="Acción", Guardianes de Altamar
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACCION%20-%20Guardianes%20de%20altamar.mp4
-#EXTINF:-1,iptvtools_8
+#EXTINF:-1 group-title="Acción", Misión Rescate
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACCION%20-%20Misi%c3%b3n%20Rescate.mp4
-#EXTINF:-1,iptvtools_9
+#EXTINF:-1 group-title="Acción", Una Guerra de Película
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACCION%20%20-%20Una%20guerra%20de%20pel%c3%adcula%20(2008).mp4
-#EXTINF:-1,iptvtools_10
+#EXTINF:-1 group-title="Acción", xXx: Reactivado
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACCION%20-%20xXx-%20Return%20of%20Xander%20Cage.mp4
 #EXTINF:-1,iptvtools_11
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACION%20%20-%20Espia%20por%20error.mp4
