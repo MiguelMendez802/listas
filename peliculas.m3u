@@ -5,7 +5,7 @@ http://tv.teleclub.xyz/hls/welcome.m3u8
 http://tv.teleclub.xyz/hls/welcome.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/300.jpg" group-title="Acción", 300 (2006)
+#EXTINF:-1 group-title="Acción", 300 (2006)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/300.mp4
 #EXTINF:-1 group-title="Acción", 300: El Nacimiento De Un Imperio (2014)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20300-%20El%20origen%20de%20un%20imperio%20_%20El%20nacimiento%20de%20un%20imperio%20Online%20(2014)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
@@ -195,53 +195,43 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20La%20leyend
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Las%20aventuras%20del%20Doctor%20Dolittle%20Online%20(2020)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
 #EXTINF:-1 group-title="Acción", Los Siete Magníficos (2016)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Los%20Siete%20Magn%c3%adficos%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Los%20mercenarios%203%20_%20Los%20indestructibles%203%20Online%20(2014)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Los Indestructibles (2010)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Los%20mercenarios%20_%20Los%20indestructibles%20Online%20(2010)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Los Indestructibles 3 (2014)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Los%20mercenarios%203%20_%20Los%20indestructibles%203%20Online%20(2014)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
+#EXTINF:-1 group-title="Acción", Lucy (2014)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Lucy%20Online%20(2014)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Manos%20de%20piedra%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Matar%20o%20morir%20_%20Peppermint%20Online%20(2018)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Mayhem%20Online%20(2017)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", El Especialista: Resurrección (2016)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Mechanic-%20Resurrection%20_%20El%20especialista-%20La%20resurrecci%c3%b3n%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Misterio a Bordo (2019)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Misterio%20a%20bordo%20Online%20(2019)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Need For Speed: La Película (2014)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Need%20for%20Speed-%20La%20pel%c3%adcula%20Online%20(2014)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Objetivo-%20Londres%20bajo%20fuego%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Ong Bak 2: La leyenda del Rey Elefante (2008)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Ong%20Bak%202-%20La%20leyenda%20del%20Rey%20Elefante%20Online%20(2008)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Plan de Escape (2013)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Plan%20de%20escape%20Online%20(2013)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Rampage: Devastación (2018)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Rampage-%20Devastaci%c3%b3n%20Online%20(2018)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Resident Evil: Vendetta (2017)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Resident%20Evil-%20Vendetta%20Online%20(2017)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Robin Hood (2018)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Robin%20Hood%20Online%20(2018)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Terremoto: La falla de San Andrés (2015)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20San%20Andr%c3%a9s%20_%20Terremoto-%20La%20Falla%20de%20San%20Andr%c3%a9s%20Online%20(2015)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Terminator-%20Destino%20oculto%20Online%20(2019)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Terminator%20G%c3%a9nesis%20Online%20(2015)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Terminator 4: La salvación (2009)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Terminator%20Salvation%20_%20La%20salvaci%c3%b3n%20Online%20(2009)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Terminator 5: Génesis (2015)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Terminator%20G%c3%a9nesis%20Online%20(2015)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
+#EXTINF:-1 group-title="Acción", Terminator 6: Destino Oscuro (2019)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Terminator-%20Destino%20oculto%20Online%20(2019)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
+#EXTINF:-1 group-title="Acción", Los Doble Vida (2016)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20The%20Do-Over%20_%20Los%20doble-vida%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Titanes del Pacífico 2: La Insurrección (2018)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Titanes%20del%20Pac%c3%adfico%202%20_%20Pacific%20Rim-%20La%20insurrecci%c3%b3n%20Online%20(2018)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Una%20pareja%20dispareja%20_%20Atrapa%20a%20un%20ladr%c3%b3n%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Inframundo: El despertar (2012)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Underworld-%20El%20despertar%20Online%20(2012)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Un Novato En Apuros 2: Infiltrados en Miami (2016)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Un%20novato%20en%20apuros%202%20_%20Infiltrados%20en%20Miami%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1 group-title="Acción", 
+#EXTINF:-1 group-title="Acción", Warcraft: El Origen (2016)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Warcraft-%20El%20origen%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
